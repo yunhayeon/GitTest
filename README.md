@@ -4,6 +4,5 @@
 - Staging Area
 - Add, Commit, Push, Pull
 
-<code>
-printf("Hello, World!")
+<code>printf("Hello, World!")
 </code>
